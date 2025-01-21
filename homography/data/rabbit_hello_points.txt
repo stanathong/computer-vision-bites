@@ -1,0 +1,9 @@
+# Pixel coordinates as (x,y) - around 'Hello!'
+# minx
+474
+# maxx
+633
+# miny
+266
+# maxy
+415

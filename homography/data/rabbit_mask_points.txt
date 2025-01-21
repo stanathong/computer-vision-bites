@@ -1,0 +1,9 @@
+# Pixel coordinates as (x,y) - mask around 'Hello!'
+# TL
+522,276
+# TR
+621,340
+# BR
+590,389
+# BL
+491,325

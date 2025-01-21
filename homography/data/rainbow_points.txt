@@ -1,0 +1,16 @@
+# Pixel coordinates as (x,y) and World Coordinate (X,Y)
+# top-left, top-right, bottom-right, bottom-left
+213,43/0,0
+715,182/1039,0
+530,858/1039,1499
+56,758/0,1499
+# centre point
+382,471/520,750 
+# outer corner of bottom or red rainbow on the left
+286,360/270,570
+# outer corner of bottom or red rainbow on the right
+514,418/770,570
+# inner corner of bottom or pink rainbow on the left
+349,377/410,570
+# inner corner of bottom or pink rainbow on the right
+454,403/630,570
